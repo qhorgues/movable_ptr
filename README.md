@@ -1,2 +1,2 @@
 # movable_ptr
-movable_ptr is an object allowing to manage the displacement for a pointer type C, it manages neither the release, nor the copy which is prohibited not to duplicate the property of the object
+movable_ptr is an object allowing to manage the displacement for a pointer type C, it manages neither the release, nor the copy which is prohibited not to duplicate the property of the object. Its main use is when using the C API
